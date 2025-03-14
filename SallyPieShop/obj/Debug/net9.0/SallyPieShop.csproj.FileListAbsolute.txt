@@ -1,0 +1,699 @@
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\appsettings.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\libman.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.runtime.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.endpoints.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.exe
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.deps.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.runtimeconfig.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.pdb
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfoInputs.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfo.cs
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.csproj.CoreCompileInputs.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cs
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\scopedcss\bundle\SallyPieShop.styles.css
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\0rjjyu4mkj-g7swuntlt2.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.build.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\refint\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.pdb
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.genruntimeconfig.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\ref\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\uir3jfgkmx-bqjiyaj88i.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\39170e4k0t-c2jlpeoesf.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ivti1w6tcr-erw9l3u2r3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\0t6wrxfjvs-aexeepp0ev.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\1ufvhw07if-d7shbmvgxk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\grnomjsgp5-ausgxo2sd3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\llw1q8y3gy-k8d9w2qqmf.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\2axj2ypj7g-cosvhxvwiu.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\8t1yic0dis-ub07r2b239.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\oq04jsk9cw-fvhpjtyr6v.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\npt8wvxlni-b7pk76d08c.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\3qurujy9vz-fsbi9cje9m.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gze6h8evqb-rzd6atqjts.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\fes8cprpoh-ee0r1s7dh0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\lftuh8qgbv-dxx9fxp4il.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gaq29i2lhq-jd9uben2k1.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\znloo3654t-khv3u5hwcm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\onzvh5ra6l-r4e9w2rdcm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\t0yantkofl-lcd1t2u6c8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\mw1vjfztne-c2oey78nd0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\9d3qr0j2yj-tdbxkamptv.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gsqolr2z1v-j5mq2jizvt.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\odceo1tegi-06098lyss8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\iqhjwlmr7y-nvvlpmu67g.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gdr6slx347-s35ty4nyc5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\fao5p8nt9k-pj5nd1wqec.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\vuaihobvoi-46ein0sx1k.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\9k22uxk9ya-v0zj4ognzu.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\uyng1t8qdl-37tfw0ft22.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ik7nt60n1w-hrwsygsryq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\v31fasjq1r-pk9g2wxc8p.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\7nm4eqhuax-ft3s53vfgj.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\34y8fra8im-6cfz1n2cew.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\vzs3ilka7u-6pdc2jztkx.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\delv7c1tdj-493y06b0oq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ue805hn83x-iovd86k7lj.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\5jhyv4pg5m-vr1egmr9el.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\sfiza3u0go-kbrnm935zg.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\yjy4xr0ftp-jj8uyg4cgr.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jrol95tmw7-y7v9cxd14o.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ze312fkpgr-notf2xhcfb.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\9yy9sfyz10-h1s4sie4z3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jugw1dian7-63fj8s7r0e.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\z6mgl73n1d-0j3bgjxly4.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\540phair44-3mu0h9tx89.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ia8t4vls3a-cmhhdwqdyz.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\dnhfbheqpc-5zybp921qk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jc8r8yawvp-eict21by8z.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ev3wnmgdff-rvhlnuwl0w.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\qzh13g1v30-8tr2uchqr5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\l5ousoodcm-oyhlwpn2ry.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\biyega5j9m-37l46l7i6j.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\4j3gc15xtb-9ozp8y9mwk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ls788gdigj-33kherj0x8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\hj3wjn7ghw-xw9ktltpoq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\8l1le8hicu-vv23opoj39.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\m8mlhgc8b4-utrc60xe8f.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\hgcbptyg9r-m5ioe6x05t.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\wt7bblhcka-ogfnvmm9u4.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\tmij8ivjhr-msy1qwdlar.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\nggkwk53hx-wygj0g0egz.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\mfdw9q8n0z-qnll27bpxk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jt3rcarx57-vppv4xf58g.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\bl4uw63pfl-wbpfeoezp3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\vjk6h6kkg6-ytu0mno2ng.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\3955hkc8y5-wuwc8kk5a5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\4ug014s378-a2ww84rxre.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\mcklu7ttef-parinopxbm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\c279iqys7d-r2l44wjr8p.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\rrfvlbf5ix-9b4bpgjbx0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\wwth2zx2m7-m56mxgorfm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\q39p50ox43-iclhr71gek.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\be9ktaqkv5-5q5v2m71js.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\bciew7gdr2-n9b8won2d5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\4wgdx1hxaq-e9652imd4e.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\n6w3pifjt0-1il7se3zg6.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\x6e8sqaixl-4abcade5u8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gh5z5np2px-huwngg65ec.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\3q2t0wt0ao-22n2g2hpag.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\appsettings.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\libman.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.endpoints.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.runtime.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.exe
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.deps.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.runtimeconfig.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.pdb
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfoInputs.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfo.cs
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.csproj.CoreCompileInputs.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cs
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\scopedcss\bundle\SallyPieShop.styles.css
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\0rjjyu4mkj-g7swuntlt2.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\uir3jfgkmx-bqjiyaj88i.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\39170e4k0t-c2jlpeoesf.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ivti1w6tcr-erw9l3u2r3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\0t6wrxfjvs-aexeepp0ev.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\1ufvhw07if-d7shbmvgxk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\grnomjsgp5-ausgxo2sd3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\llw1q8y3gy-k8d9w2qqmf.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\2axj2ypj7g-cosvhxvwiu.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\8t1yic0dis-ub07r2b239.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\oq04jsk9cw-fvhpjtyr6v.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\npt8wvxlni-b7pk76d08c.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\3qurujy9vz-fsbi9cje9m.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gze6h8evqb-rzd6atqjts.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\fes8cprpoh-ee0r1s7dh0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\lftuh8qgbv-dxx9fxp4il.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gaq29i2lhq-jd9uben2k1.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\znloo3654t-khv3u5hwcm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\onzvh5ra6l-r4e9w2rdcm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\t0yantkofl-lcd1t2u6c8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\mw1vjfztne-c2oey78nd0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\9d3qr0j2yj-tdbxkamptv.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gsqolr2z1v-j5mq2jizvt.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\odceo1tegi-06098lyss8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\iqhjwlmr7y-nvvlpmu67g.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gdr6slx347-s35ty4nyc5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\fao5p8nt9k-pj5nd1wqec.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\vuaihobvoi-46ein0sx1k.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\9k22uxk9ya-v0zj4ognzu.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\uyng1t8qdl-37tfw0ft22.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ik7nt60n1w-hrwsygsryq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\v31fasjq1r-pk9g2wxc8p.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\7nm4eqhuax-ft3s53vfgj.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\34y8fra8im-6cfz1n2cew.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\vzs3ilka7u-6pdc2jztkx.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\delv7c1tdj-493y06b0oq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ue805hn83x-iovd86k7lj.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\5jhyv4pg5m-vr1egmr9el.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\sfiza3u0go-kbrnm935zg.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\yjy4xr0ftp-jj8uyg4cgr.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jrol95tmw7-y7v9cxd14o.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ze312fkpgr-notf2xhcfb.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\9yy9sfyz10-h1s4sie4z3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jugw1dian7-63fj8s7r0e.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\z6mgl73n1d-0j3bgjxly4.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\540phair44-3mu0h9tx89.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ia8t4vls3a-cmhhdwqdyz.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\dnhfbheqpc-5zybp921qk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jc8r8yawvp-eict21by8z.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ev3wnmgdff-rvhlnuwl0w.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\qzh13g1v30-8tr2uchqr5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\l5ousoodcm-oyhlwpn2ry.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\biyega5j9m-37l46l7i6j.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\4j3gc15xtb-9ozp8y9mwk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ls788gdigj-33kherj0x8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\hj3wjn7ghw-xw9ktltpoq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\8l1le8hicu-vv23opoj39.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\m8mlhgc8b4-utrc60xe8f.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\hgcbptyg9r-m5ioe6x05t.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\wt7bblhcka-ogfnvmm9u4.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\tmij8ivjhr-msy1qwdlar.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\nggkwk53hx-wygj0g0egz.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\mfdw9q8n0z-qnll27bpxk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jt3rcarx57-vppv4xf58g.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\bl4uw63pfl-wbpfeoezp3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\vjk6h6kkg6-ytu0mno2ng.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\3955hkc8y5-wuwc8kk5a5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\4ug014s378-a2ww84rxre.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\mcklu7ttef-parinopxbm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\c279iqys7d-r2l44wjr8p.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\rrfvlbf5ix-9b4bpgjbx0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\wwth2zx2m7-m56mxgorfm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\q39p50ox43-iclhr71gek.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\be9ktaqkv5-5q5v2m71js.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\bciew7gdr2-n9b8won2d5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\4wgdx1hxaq-e9652imd4e.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\n6w3pifjt0-1il7se3zg6.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\x6e8sqaixl-4abcade5u8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gh5z5np2px-huwngg65ec.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\3q2t0wt0ao-22n2g2hpag.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.build.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\refint\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.pdb
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.genruntimeconfig.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250224 - p\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\ref\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\libman.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.endpoints.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\appsettings.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.runtime.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.exe
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.deps.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.runtimeconfig.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\SallyPieShop.pdb
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Humanizer.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.csproj.AssemblyReference.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfoInputs.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfo.cs
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.csproj.CoreCompileInputs.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cs
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\scopedcss\bundle\SallyPieShop.styles.css
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\0rjjyu4mkj-g7swuntlt2.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\uir3jfgkmx-bqjiyaj88i.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\39170e4k0t-c2jlpeoesf.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ivti1w6tcr-erw9l3u2r3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\0t6wrxfjvs-aexeepp0ev.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\1ufvhw07if-d7shbmvgxk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\grnomjsgp5-ausgxo2sd3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\llw1q8y3gy-k8d9w2qqmf.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\2axj2ypj7g-cosvhxvwiu.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\8t1yic0dis-ub07r2b239.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\oq04jsk9cw-fvhpjtyr6v.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\npt8wvxlni-b7pk76d08c.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\3qurujy9vz-fsbi9cje9m.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gze6h8evqb-rzd6atqjts.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\fes8cprpoh-ee0r1s7dh0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\lftuh8qgbv-dxx9fxp4il.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gaq29i2lhq-jd9uben2k1.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\znloo3654t-khv3u5hwcm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\onzvh5ra6l-r4e9w2rdcm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\t0yantkofl-lcd1t2u6c8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\mw1vjfztne-c2oey78nd0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\9d3qr0j2yj-tdbxkamptv.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gsqolr2z1v-j5mq2jizvt.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\odceo1tegi-06098lyss8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\iqhjwlmr7y-nvvlpmu67g.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gdr6slx347-s35ty4nyc5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\fao5p8nt9k-pj5nd1wqec.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\vuaihobvoi-46ein0sx1k.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\9k22uxk9ya-v0zj4ognzu.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\uyng1t8qdl-37tfw0ft22.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ik7nt60n1w-hrwsygsryq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\v31fasjq1r-pk9g2wxc8p.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\7nm4eqhuax-ft3s53vfgj.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\34y8fra8im-6cfz1n2cew.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\vzs3ilka7u-6pdc2jztkx.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\delv7c1tdj-493y06b0oq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ue805hn83x-iovd86k7lj.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\5jhyv4pg5m-vr1egmr9el.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\sfiza3u0go-kbrnm935zg.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\yjy4xr0ftp-jj8uyg4cgr.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jrol95tmw7-y7v9cxd14o.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ze312fkpgr-notf2xhcfb.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\9yy9sfyz10-h1s4sie4z3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jugw1dian7-63fj8s7r0e.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\z6mgl73n1d-0j3bgjxly4.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\540phair44-3mu0h9tx89.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ia8t4vls3a-cmhhdwqdyz.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\dnhfbheqpc-5zybp921qk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jc8r8yawvp-eict21by8z.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ev3wnmgdff-rvhlnuwl0w.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\qzh13g1v30-8tr2uchqr5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\l5ousoodcm-oyhlwpn2ry.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\biyega5j9m-37l46l7i6j.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\4j3gc15xtb-9ozp8y9mwk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\ls788gdigj-33kherj0x8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\hj3wjn7ghw-xw9ktltpoq.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\8l1le8hicu-vv23opoj39.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\m8mlhgc8b4-utrc60xe8f.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\hgcbptyg9r-m5ioe6x05t.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\wt7bblhcka-ogfnvmm9u4.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\tmij8ivjhr-msy1qwdlar.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\nggkwk53hx-wygj0g0egz.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\mfdw9q8n0z-qnll27bpxk.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\jt3rcarx57-vppv4xf58g.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\bl4uw63pfl-wbpfeoezp3.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\vjk6h6kkg6-ytu0mno2ng.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\3955hkc8y5-wuwc8kk5a5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\4ug014s378-a2ww84rxre.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\mcklu7ttef-parinopxbm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\c279iqys7d-r2l44wjr8p.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\rrfvlbf5ix-9b4bpgjbx0.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\wwth2zx2m7-m56mxgorfm.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\q39p50ox43-iclhr71gek.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\be9ktaqkv5-5q5v2m71js.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\bciew7gdr2-n9b8won2d5.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\4wgdx1hxaq-e9652imd4e.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\n6w3pifjt0-1il7se3zg6.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\x6e8sqaixl-4abcade5u8.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\gh5z5np2px-huwngg65ec.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\compressed\3q2t0wt0ao-22n2g2hpag.gz
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.build.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SallyPieShop.props
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPie.910CC526.Up2Date
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\refint\SallyPieShop.dll
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.pdb
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\SallyPieShop.genruntimeconfig.cache
+C:\Users\bothabs\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250225\SallyPieShop_End\SallyPieShop\obj\Debug\net9.0\ref\SallyPieShop.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\appsettings.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\libman.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.runtime.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.staticwebassets.endpoints.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.exe
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.deps.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.runtimeconfig.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\SallyPieShop.pdb
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Humanizer.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.csproj.AssemblyReference.cache
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfoInputs.cache
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.AssemblyInfo.cs
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.csproj.CoreCompileInputs.cache
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cache
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.RazorAssemblyInfo.cs
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.sourcelink.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\scopedcss\bundle\SallyPieShop.styles.css
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\0rjjyu4mkj-g7swuntlt2.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\uir3jfgkmx-bqjiyaj88i.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\39170e4k0t-c2jlpeoesf.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ivti1w6tcr-erw9l3u2r3.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\0t6wrxfjvs-aexeepp0ev.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\1ufvhw07if-d7shbmvgxk.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\grnomjsgp5-ausgxo2sd3.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\llw1q8y3gy-k8d9w2qqmf.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\2axj2ypj7g-cosvhxvwiu.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\8t1yic0dis-ub07r2b239.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\oq04jsk9cw-fvhpjtyr6v.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\npt8wvxlni-b7pk76d08c.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\3qurujy9vz-fsbi9cje9m.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gze6h8evqb-rzd6atqjts.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\fes8cprpoh-ee0r1s7dh0.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\lftuh8qgbv-dxx9fxp4il.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gaq29i2lhq-jd9uben2k1.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\znloo3654t-khv3u5hwcm.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\onzvh5ra6l-r4e9w2rdcm.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\t0yantkofl-lcd1t2u6c8.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\mw1vjfztne-c2oey78nd0.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\9d3qr0j2yj-tdbxkamptv.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gsqolr2z1v-j5mq2jizvt.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\odceo1tegi-06098lyss8.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\iqhjwlmr7y-nvvlpmu67g.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gdr6slx347-s35ty4nyc5.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\fao5p8nt9k-pj5nd1wqec.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\vuaihobvoi-46ein0sx1k.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\9k22uxk9ya-v0zj4ognzu.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\uyng1t8qdl-37tfw0ft22.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ik7nt60n1w-hrwsygsryq.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\v31fasjq1r-pk9g2wxc8p.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\7nm4eqhuax-ft3s53vfgj.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\34y8fra8im-6cfz1n2cew.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\vzs3ilka7u-6pdc2jztkx.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\delv7c1tdj-493y06b0oq.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ue805hn83x-iovd86k7lj.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\5jhyv4pg5m-vr1egmr9el.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\sfiza3u0go-kbrnm935zg.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\yjy4xr0ftp-jj8uyg4cgr.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jrol95tmw7-y7v9cxd14o.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ze312fkpgr-notf2xhcfb.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\9yy9sfyz10-h1s4sie4z3.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jugw1dian7-63fj8s7r0e.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\z6mgl73n1d-0j3bgjxly4.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\540phair44-3mu0h9tx89.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ia8t4vls3a-cmhhdwqdyz.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\dnhfbheqpc-5zybp921qk.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jc8r8yawvp-eict21by8z.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ev3wnmgdff-rvhlnuwl0w.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\qzh13g1v30-8tr2uchqr5.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\l5ousoodcm-oyhlwpn2ry.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\biyega5j9m-37l46l7i6j.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\4j3gc15xtb-9ozp8y9mwk.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\ls788gdigj-33kherj0x8.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\hj3wjn7ghw-xw9ktltpoq.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\8l1le8hicu-vv23opoj39.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\m8mlhgc8b4-utrc60xe8f.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\hgcbptyg9r-m5ioe6x05t.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\wt7bblhcka-ogfnvmm9u4.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\tmij8ivjhr-msy1qwdlar.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\nggkwk53hx-wygj0g0egz.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\mfdw9q8n0z-qnll27bpxk.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\jt3rcarx57-vppv4xf58g.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\bl4uw63pfl-wbpfeoezp3.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\vjk6h6kkg6-ytu0mno2ng.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\3955hkc8y5-wuwc8kk5a5.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\4ug014s378-a2ww84rxre.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\mcklu7ttef-parinopxbm.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\c279iqys7d-r2l44wjr8p.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\rrfvlbf5ix-9b4bpgjbx0.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\wwth2zx2m7-m56mxgorfm.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\q39p50ox43-iclhr71gek.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\be9ktaqkv5-5q5v2m71js.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\bciew7gdr2-n9b8won2d5.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\4wgdx1hxaq-e9652imd4e.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\n6w3pifjt0-1il7se3zg6.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\x6e8sqaixl-4abcade5u8.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\gh5z5np2px-huwngg65ec.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\compressed\3q2t0wt0ao-22n2g2hpag.gz
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.SallyPieShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.build.SallyPieShop.props
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SallyPieShop.props
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SallyPieShop.props
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPie.910CC526.Up2Date
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\refint\SallyPieShop.dll
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.pdb
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\SallyPieShop.genruntimeconfig.cache
+C:\Users\kalas\Documents\2025_CSIS3734\SallyPieShop_Start(2)\SallyPieShop_Start\SallyPieShop\obj\Debug\net9.0\ref\SallyPieShop.dll
