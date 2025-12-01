@@ -1,7 +1,7 @@
 # 🍰 .NET-MVC_SallyPieShop
 
 **Sweeten Success with a Seamless Pie Shopping Experience**  
-_Last commit: March_
+
 
 ![Languages](https://img.shields.io/github/languages/count/lukskalashs/.NET-MVC_SallyPieShop)  
 ![Repo Size](https://img.shields.io/github/repo-size/lukskalashs/.NET-MVC_SallyPieShop)  
