@@ -17,7 +17,7 @@ namespace SallyPieShop.Data
         {
             get
             {
-                return _appDbContext.Pies;
+                return _appDbContext.Pie;
             }
         }
 
@@ -25,13 +25,13 @@ namespace SallyPieShop.Data
         {
             get
             {
-                return _appDbContext.Pies.Where(p => p.IsPieOfTheWeek);
+                return _appDbContext.Pie.Where(p => p.IsPieOfTheWeek);
             }
         }
 
         public Pie GetPieById(int pieId)
         {
-            return _appDbContext.Pies.FirstOrDefault(p => p.PieId == pieId);
+            return _appDbContext.Pie.FirstOrDefault(p => p.PieId == pieId);
         }
     }
 }

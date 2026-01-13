@@ -8,7 +8,7 @@ namespace SallyPieShop.Data
       public AppDbContext(DbContextOptions<AppDbContext> options)
     : base(options) {         }
 
-        public DbSet<Pie> Pies { get; set; }
+        public DbSet<Pie> Pie { get; set; }
         public DbSet<Feedback> Feedbacks { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
